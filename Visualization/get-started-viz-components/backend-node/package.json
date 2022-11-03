@@ -1,0 +1,16 @@
+{
+  "name": "looker-embed-backend",
+  "version": "1.0.0",
+  "description": "Backend helper service for getting started with Looker Viz components",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Looker",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@looker/sdk-node": "^22.16.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
