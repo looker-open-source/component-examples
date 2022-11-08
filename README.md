@@ -13,7 +13,7 @@ Components can be used with the [Looker extension framework](https://cloud.googl
 
 Each example directory has a README.md that details how to run that specific example. You should follow the specific examples for each, but the general workflow is:
 
-0. `git clone git@github.com:googlestaging/component-examples.git` to clone this entire repository.
+0. `git clone git@github.com:looker-open-source/component-examples.git` to clone this entire repository.
 1. `cd` to the relevant directory.
 3. Follow the instruction in the README.md file.
 

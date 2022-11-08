@@ -10,7 +10,7 @@ This folder has the code for the frontend and backend service used in the [get s
 1. Clone the Looker component examples repo.
 
 ```
-git clone git@github.com:googlestaging/component-examples.git
+git clone git@github.com:looker-open-source/component-examples.git
 ```
 
 #### **Start the backend serivce helper**
